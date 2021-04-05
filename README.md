@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/SRihabe/Parts%20Unlimited/_apis/build/status/rihabesx.ContosoAir?branchName=master)](https://dev.azure.com/SRihabe/Parts%20Unlimited/_build/latest?definitionId=3&branchName=master)
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
 
